@@ -12,8 +12,4 @@ class Index extends Component
         return view('livewire.index');
     }
 
-    public function increment()
-    {
-        $this->count++;
-    }
 }
