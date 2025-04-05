@@ -14,6 +14,6 @@ class Index extends Component
 
     public function increment()
     {
-        this->count++;
+        $this->count++;
     }
 }
